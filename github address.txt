@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/zhusheng/blog/master/99.jpg
+https://raw.githubusercontent.com/zhusheng/blog/master/100.png
+
+https://raw.githubusercontent.com/zhusheng/blog/master/100.gif
+
+https://raw.githubusercontent.com/zhusheng/blog/master/100.jpg
