@@ -9,49 +9,17 @@
 图片链接地址参考
 `https://raw.githubusercontent.com/zhusheng/blog/master/0.png`
 
-## 图片介绍
+加载图片
+https://raw.githubusercontent.com/zhusheng/blog/master/100.png
 
-### 1～7
+指定宽度，高度自动等比例缩放
+<img src="https://raw.githubusercontent.com/zhusheng/blog/master/134.png"  width=600/>
 
-图片介绍：
-react
+显示gif
+https://raw.githubusercontent.com/zhusheng/blog/master/100.gif
 
-### 8
-
-图片介绍：Git暂存区和缓存区
-
-### 9
-
-图片介绍：机器学习，Anaconda机器学习集成环境，函数库
-
-### 10
-
-图片介绍：机器学习，Anaconda mac版本下载，区分Python2.x和3.x版本
-
-### 11～15
-
-图片介绍：机器学习，二分分类的一些运行效果图
-
-### 16～17
-
-图片介绍：Git分支，Master分支
-
-### 18～21
-
-图片介绍：Git,master与dev分支合并过程
-
-### 22
-
-图片介绍：Git切换分支
-
-### 23
-
-图片介绍：huatec01 hdfs启动界面
-
-### 24
-
-图片介绍：huatec01 hdfs启动界面
-
-### 95
-
-物联网课程设计
+添加下标和上标
+下标：
+H<sub>2</sub>O  CO<sub>2</sub>
+上标:
+x<sup>2</sup>
