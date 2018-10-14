@@ -1,0 +1,8 @@
+加载图片
+https://raw.githubusercontent.com/zhusheng/blog/master/100.png
+
+指定宽度，高度自动等比例缩放
+<img src="https://raw.githubusercontent.com/zhusheng/blog/master/134.png"  width=600/>
+
+显示gif
+https://raw.githubusercontent.com/zhusheng/blog/master/100.gif
