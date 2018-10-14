@@ -6,3 +6,9 @@ https://raw.githubusercontent.com/zhusheng/blog/master/100.png
 
 显示gif
 https://raw.githubusercontent.com/zhusheng/blog/master/100.gif
+
+添加下标和上标
+下标：
+H<sub>2</sub>O  CO<sub>2</sub>
+上标:
+x<sup>2</sup>
